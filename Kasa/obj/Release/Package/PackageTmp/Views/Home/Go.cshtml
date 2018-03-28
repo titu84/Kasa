@@ -1,0 +1,47 @@
+﻿@model Kasa.Models.Model
+<div class="center">
+    <div class="form-group">
+        @using (Html.BeginForm("Add", "Home", FormMethod.Post))
+        {
+            <input type="text" name="Name" placeholder="Name" class="form-control" autofocus />
+            <input type="number" name="Number" placeholder="Number" class="form-control" />
+            <input type="button" class="btn btn success" onclick="show();" value="Historia" />
+            <input id="go" type="submit" value="OK" class="btn btn-primary pull-right">
+        }
+
+    </div>
+</div>
+<hr />
+<div>
+    @foreach (var item in Model.Grouped)
+    {
+        if (item.Number != 0)
+        {
+            <div>
+                <h4>komu: @item.Name ile: @item.Number zł</h4>
+            </div>
+        }
+    }
+</div>
+<div id="hidden" class="hide">
+    <h4 class="text-primary">Historia</h4>
+    @foreach (var item in Model.History)
+    {
+        if (item.Number != 0)
+        {
+            <div>
+                <h5>komu: @item.Name ile: @item.Number zł data: @item.Date</h5>
+            </div>
+        }
+    }
+</div>
+<script>
+    function show() {
+        if (document.querySelector('#hidden').classList.contains("hide")) {
+            document.querySelector('#hidden').classList.remove("hide")
+        }
+        else {
+            document.querySelector('#hidden').classList.add("hide")
+        }
+    }
+</script>
