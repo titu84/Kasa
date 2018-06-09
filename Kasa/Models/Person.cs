@@ -10,5 +10,6 @@ namespace Kasa.Models
         public string Name { get; set; }
         public double Number { get; set; }
         public string Date { get; set; }
+        public string What { get; set; }
     }
 }

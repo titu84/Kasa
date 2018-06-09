@@ -37,7 +37,8 @@ namespace Kasa.Models
                     {
                         Name = item.Attribute("name").Value,
                         Number = item.Attribute("value").Value.ToDecimal(),
-                        Date = item.Attribute("date").Value
+                        Date = item.Attribute("date").Value,
+                        What = item.Attribute("what").Value
                     });
                 }
                 return temp.OrderByDescending(a=>a.Date).ToList();
@@ -57,7 +58,7 @@ namespace Kasa.Models
                     {
                         Name = b.First().Name,
                         Number = b.Sum(c => c.Number),
-                        Date = b.Max(c => c.Date)
+                        Date = b.Max(c => c.Date)                        
                     }).ToList();
             }
             finally
@@ -74,6 +75,7 @@ namespace Kasa.Models
                 .Add(new XElement("val",
                 new XAttribute("name", person.Name),
                 new XAttribute("value", person.Number.ToString()),
+                new XAttribute("what", person.What), 
                 new XAttribute("date", DateTime.Now.ToString("yyyy.MM.dd HH:mm:ss"))));
                 doc.Save(path);
             }

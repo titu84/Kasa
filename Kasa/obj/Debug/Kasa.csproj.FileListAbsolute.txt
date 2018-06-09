@@ -39,3 +39,46 @@ c:\users\krzys\documents\visual studio 2015\Projects\Kasa\Kasa\obj\Debug\Kasa.cs
 c:\users\krzys\documents\visual studio 2015\Projects\Kasa\Kasa\obj\Debug\Kasa.dll
 c:\users\krzys\documents\visual studio 2015\Projects\Kasa\Kasa\obj\Debug\Kasa.pdb
 c:\users\krzys\documents\visual studio 2015\Projects\Kasa\Kasa\bin\App_Data\Data.xml
+C:\Users\krzys\source\repos\Kasa\Kasa\bin\App_Data\Data.xml
+C:\Users\krzys\source\repos\Kasa\Kasa\bin\roslyn\csc.exe
+C:\Users\krzys\source\repos\Kasa\Kasa\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\krzys\source\repos\Kasa\Kasa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\krzys\source\repos\Kasa\Kasa\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\krzys\source\repos\Kasa\Kasa\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\krzys\source\repos\Kasa\Kasa\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\krzys\source\repos\Kasa\Kasa\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\krzys\source\repos\Kasa\Kasa\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\krzys\source\repos\Kasa\Kasa\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\krzys\source\repos\Kasa\Kasa\bin\roslyn\vbc.exe
+C:\Users\krzys\source\repos\Kasa\Kasa\bin\roslyn\VBCSCompiler.exe
+C:\Users\krzys\source\repos\Kasa\Kasa\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\krzys\source\repos\Kasa\Kasa\bin\Kasa.dll.config
+C:\Users\krzys\source\repos\Kasa\Kasa\bin\Kasa.dll
+C:\Users\krzys\source\repos\Kasa\Kasa\bin\Kasa.pdb
+C:\Users\krzys\source\repos\Kasa\Kasa\bin\Antlr3.Runtime.dll
+C:\Users\krzys\source\repos\Kasa\Kasa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\krzys\source\repos\Kasa\Kasa\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\krzys\source\repos\Kasa\Kasa\bin\Newtonsoft.Json.dll
+C:\Users\krzys\source\repos\Kasa\Kasa\bin\System.Web.Helpers.dll
+C:\Users\krzys\source\repos\Kasa\Kasa\bin\System.Web.Mvc.dll
+C:\Users\krzys\source\repos\Kasa\Kasa\bin\System.Web.Optimization.dll
+C:\Users\krzys\source\repos\Kasa\Kasa\bin\System.Web.Razor.dll
+C:\Users\krzys\source\repos\Kasa\Kasa\bin\System.Web.WebPages.Deployment.dll
+C:\Users\krzys\source\repos\Kasa\Kasa\bin\System.Web.WebPages.dll
+C:\Users\krzys\source\repos\Kasa\Kasa\bin\System.Web.WebPages.Razor.dll
+C:\Users\krzys\source\repos\Kasa\Kasa\bin\WebGrease.dll
+C:\Users\krzys\source\repos\Kasa\Kasa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\krzys\source\repos\Kasa\Kasa\bin\System.Web.Helpers.xml
+C:\Users\krzys\source\repos\Kasa\Kasa\bin\System.Web.Mvc.xml
+C:\Users\krzys\source\repos\Kasa\Kasa\bin\System.Web.Optimization.xml
+C:\Users\krzys\source\repos\Kasa\Kasa\bin\System.Web.Razor.xml
+C:\Users\krzys\source\repos\Kasa\Kasa\bin\System.Web.WebPages.xml
+C:\Users\krzys\source\repos\Kasa\Kasa\bin\System.Web.WebPages.Deployment.xml
+C:\Users\krzys\source\repos\Kasa\Kasa\bin\System.Web.WebPages.Razor.xml
+C:\Users\krzys\source\repos\Kasa\Kasa\bin\Antlr3.Runtime.pdb
+C:\Users\krzys\source\repos\Kasa\Kasa\bin\Newtonsoft.Json.xml
+C:\Users\krzys\source\repos\Kasa\Kasa\obj\Debug\Kasa.csprojAssemblyReference.cache
+C:\Users\krzys\source\repos\Kasa\Kasa\obj\Debug\Kasa.csproj.CoreCompileInputs.cache
+C:\Users\krzys\source\repos\Kasa\Kasa\obj\Debug\Kasa.csproj.CopyComplete
+C:\Users\krzys\source\repos\Kasa\Kasa\obj\Debug\Kasa.dll
+C:\Users\krzys\source\repos\Kasa\Kasa\obj\Debug\Kasa.pdb
