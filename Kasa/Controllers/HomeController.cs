@@ -33,7 +33,7 @@ namespace Kasa.Controllers
                 {
                     pass = Haslo;
                 }
-                if (pass == "blabla")
+                if (pass == System.Configuration.ConfigurationManager.AppSettings["pass"])
                 {
                     Xml.LoadModel();
                     return View(Xml.Model);

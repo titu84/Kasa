@@ -290,3 +290,8 @@ __pycache__/
 *.btm.cs
 *.odx.cs
 *.xsd.cs
+/.vs
+/Kasa/App_Data
+/Kasa/bin
+/Kasa/obj
+/Kasa/Properties/PublishProfiles
