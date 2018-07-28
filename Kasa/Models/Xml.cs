@@ -75,7 +75,7 @@ namespace Kasa.Models
                 .Add(new XElement("val",
                 new XAttribute("name", person.Name),
                 new XAttribute("value", person.Number.ToString()),
-                new XAttribute("what", person.What), 
+                new XAttribute("what", person.What ?? "-"), 
                 new XAttribute("date", DateTime.Now.ToString("yyyy.MM.dd HH:mm:ss"))));
                 doc.Save(path);
             }
